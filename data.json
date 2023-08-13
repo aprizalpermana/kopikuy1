@@ -1,0 +1,57 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "35000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "25000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://www.masakapahariini.com/wp-content/uploads/2022/09/resep-jajangmyeon-featured.jpg",
+            "nama": "jajangmyeon",
+            "size": "100 Gram",
+            "harga": "75000",
+            "link": "https://www.google.com/search?q=jajangmyeon&source=lmns&tbm=shop&bih=619&biw=1366&hl=id&sa=X&ved=2ahUKEwjx_e7079mAAxV8yjgGHXQwB1QQ0pQJKAJ6BAgBEAY"
+        },
+        {
+            "foto": "https://mamasuka.com/Photo/article/article-409-05.%20topokki.jpg",
+            "nama": "topokki",
+            "size": "100 Gram",
+            "harga": "50000",
+            "link": "https://www.google.com/search?sca_esv=556540922&hl=id&tbm=shop&sxsrf=AB5stBhsFkkp70m8uT877TrX7bMEcezO_w:1691938699741&q=topokki&tbs=mr:1,price:1,ppr_min:40000,ppr_max:69999.99&sa=X&ved=0ahUKEwjtu7fp8tmAAxXw-jgGHXOACysQvSsImAcoAw&biw=1366&bih=619&dpr=1"
+        }
+    ]
+}
